@@ -14,17 +14,17 @@ from googletrans import Translator
 
 kr1 = KRIS.LINE()
 #kr1.login(qr=True)
-kr1.login(token="")#1 => akun utama
+kr1.login(token="EpDzyaJh3Z17Fy8TbOc8.dM9isXLP8/9zqlbvVCtxMa.QENK31EYlxyLkWQ/xcD9X6+EpGJ3JOft1rZl+wQuP0o=")#1 => akun utama
 kr1.loginResult()
 
-kr3 = KRIS.LINE()
+kr2 = KRIS.LINE()
 #kr2.login(qr=True)
-kr2.login(token="")#2 => asist
+kr2.login(token="EpRwiN3Mw39da0OH38Aa.2KFlz0EhpdEJB9mmPXtIwG.cGQVUalt7BYNmw+r2scz9SHsdcE9cLaG6Rk4S0Fwwd8=")#2 => asist
 kr2.loginResult()
 
 kr3 = KRIS.LINE()
 #kr3.login(qr=True)
-kr3.login(token="")#3 => asist
+kr3.login(token="EpGHz8n2ErJyMo8ybAff.N9ifRDj66jRikuggJ75EpW.gNjWNqDvzc9iYNYPQCiiHIFCBghn7D50URG5ETgnbY4=")#3 => asist
 kr3.loginResult()
 
 print "Skyline Bots"
@@ -146,6 +146,7 @@ help4msg ="""
 ✎ 「 Apakah 」
 ✎ 「 Date 」
 ✎ 「 Checkg: 」
+✎ 「 Tikel on/off 」
 ✎ 「 Tr-id 」
 ✎ 「 Tr-en 」
 ✎ 「 Tr-ar 」
