@@ -58,9 +58,6 @@ helpmsg ="""
 ✎ 「 Coverurl 」
 ✎ 「 Copy @ 」
 ✎ 「 Backup 」
-✎ 「 Spam change: 」
-✎ 「 Spam add: 」
-✎ 「 Spam: 」
 ✎ 「 Spam [Text] 」
 ✎ 「 Spam [Txt or on or Jmlh 」
 """
@@ -69,7 +66,6 @@ help2msg ="""
 ☀ HELP GROUP ☀
 
 ✎ 「 Getqr 」
-✎ 「 Gcancel: [ Jmlh ] 」
 ✎ 「 Mimic add @ 」
 ✎ 「 Mimic del @ 」
 ✎ 「 Mimic list 」
@@ -107,7 +103,7 @@ help2msg ="""
 ✎ 「 Last 」
 ✎ 「 Bcast 」
 ✎ 「 Scan blacklist 」
-✎ 「 Tagall 」
+✎ 「 Cipok 」
 """
 
 help3msg ="""
@@ -117,10 +113,6 @@ help3msg ="""
 ✎ 「 Auto join on/off 」
 ✎ 「 Auto leave on/off 」
 ✎ 「 Auto add on/off 」
-✎ 「 Pesan set: 」
-✎ 「 Comment set: 」
-✎ 「 Comment on/off 」
-✎ 「 Comment 」
 ✎ 「 Link on/off 」
 ✎ 「 Protect on/off 」
 ✎ 「 Qr on/off 」
@@ -138,7 +130,6 @@ help4msg ="""
 ✎ 「 Youtube 」
 ✎ 「 Music 」
 ✎ 「 Lirik 」
-✎ 「 Google 」
 ✎ 「 Playstore 」
 ✎ 「 Wikipedia 」
 ✎ 「 Image 」
