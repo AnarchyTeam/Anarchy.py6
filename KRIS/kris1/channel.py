@@ -19,8 +19,8 @@ class Channel:
     channel_query_path = "/CH4"
 
     
-    UA = "Line/8.0.1 iPad4,1 9.0.2"
-    LA = "DESKTOPMAC 10.10.2-YOSEMITE-x64    MAC 4.5.0"
+    UA = "Line/1.4.17"
+    LA = "DESKTOPWIN\t5.5.1.1.1590\tWINDOWS_NT\t8.0"
 
     authToken = None
     mid = None
